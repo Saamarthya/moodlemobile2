@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<<<<<<< HEAD
+<widget id="com.moodle.moodlemobile" version="2.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Moodle Mobile</name>
+  <description>Official Moodle Mobile app</description>
+=======
 <widget id="com.saam.arth" version="2.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Saamarthya Mobile</name>
   <description>Mobile and Offline app</description>
+>>>>>>> refs/remotes/origin/master
   <author href="http://moodle.com" email="juan@moodle.com">Juan Leyva</author>
   <content src="index.html"/>
   <access origin="*"/>
